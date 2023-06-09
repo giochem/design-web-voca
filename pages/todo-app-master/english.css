@@ -1,0 +1,9 @@
+.wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.nav {
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
